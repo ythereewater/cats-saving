@@ -307,7 +307,12 @@ bs-config.json指示了lite-server的工作目录。
 ![此处输入图片的描述][11]
 
 交易详情
-![此处输入图片的描述][12]
+![此处输入图片的描述][12]0
+
+
+#### 参考
+
+这个项目学习参考了博文[一步步教你开发、部署第一个去中心化应用(Dapp) - 宠物商店][https://learnblockchain.cn/2018/01/12/first-dapp/]
 
 
   [1]: https://i.loli.net/2018/11/26/5bfbda108d72f.png
