@@ -1,6 +1,6 @@
-﻿# 智能合约部署报告
+﻿# 基于truffle的一个DApp——流浪猫救助站
 
-编写一个完整的去中心化应用
+一个基于truffle unbox 的demo的去中心化应用
 
 ## 项目背景
     为了解决流浪猫的问题，救助站决定建立一个去中心化应用，让大家来领养流浪猫,我们可以使用在truffle box中，已经提供的pet-shop网站部分的代码，只需要编写合约及交互部分。
@@ -312,7 +312,7 @@ bs-config.json指示了lite-server的工作目录。
 
 #### 参考
 
-这个项目学习参考了博文[一步步教你开发、部署第一个去中心化应用(Dapp) - 宠物商店][https://learnblockchain.cn/2018/01/12/first-dapp/]
+这个项目学习参考了博文[一步步教你开发、部署第一个去中心化应用(Dapp) - 宠物商店][13]。一步一步按照教程做下来，稍微修改了一下需求。
 
 
   [1]: https://i.loli.net/2018/11/26/5bfbda108d72f.png
@@ -327,3 +327,4 @@ bs-config.json指示了lite-server的工作目录。
   [10]: https://i.loli.net/2018/12/23/5c1fa80df1a37.png
   [11]: https://i.loli.net/2018/12/23/5c1fa8637b7e0.png
   [12]: https://i.loli.net/2018/12/23/5c1fa8bd7c133.png
+  [13]: https://learnblockchain.cn/2018/01/12/first-dapp/
