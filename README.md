@@ -255,19 +255,23 @@ Ganache 启动之后是这样：
 
 配置钱包
 进入MetaMask，会显示如下信息：
+
 ![MetaMask][6]
 
 我们点击`Import with seed phrase`，输入Ganache显示的助记词。
 
     candy maple cake sugar pudding cream honey rich smooth crumble sweet treat
 然后设置我们的密码
+
 ![IMPORT][7]
 
 点击`IMPORT`
 
 #### 连接开发区块链网络
 默认连接以太坊主网，我们选择Custom RPC，添加一个网络：http://127.0.0.1:7545
+
 ![添加一个网络][8]
+
 配置完成
 
 ### 安装和配置lite-server
@@ -298,15 +302,19 @@ bs-config.json指示了lite-server的工作目录。
     npm run dev
     
 打开http://localhost:3000/即可进入
+
 ![此处输入图片的描述][9]
 
 点击adopter,即可领养流浪猫
+
 ![此处输入图片的描述][10]
 
 点击confirm，交易成功
+
 ![此处输入图片的描述][11]
 
-交易详情
+我们可以查看一个账户的交易详情
+
 ![此处输入图片的描述][12]0
 
 
